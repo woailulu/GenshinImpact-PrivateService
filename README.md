@@ -66,6 +66,12 @@ chmod +x gradlew
 ./gradlew jar # 编译
 ```
 
+##捐赠
+！[微信](https://s2.loli.net/2023/10/29/2S7PfkaxUmvqeRo.jpg)
+
+
+![支付宝](https://s2.loli.net/2023/10/29/2S7PfkaxUmvqeRo.jpg)
+
 你可以在项目的根目录找到输出的jar。
 
 ### 故障排除
