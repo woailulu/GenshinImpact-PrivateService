@@ -3,7 +3,7 @@
 
 [EN](../README.md) | 
 [简中](README_zh-CN.md) |
-[繁中]([README_zh-TW.md](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README-CN.md)) | 
+[繁中](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README-CN.md) | 
 [FR](README_fr-FR.md) | 
 [ES](README_es-ES.md) | 
 [HE](README_HE.md) |
