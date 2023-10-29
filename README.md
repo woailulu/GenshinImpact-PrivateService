@@ -67,7 +67,7 @@ chmod +x gradlew
 ```
 
 ##捐赠
-！[微信](https://s2.loli.net/2023/10/29/JEP3fWQmKSpzkFe.jpg)
+![微信](https://s2.loli.net/2023/10/29/JEP3fWQmKSpzkFe.jpg)
 
 
 ![支付宝](https://s2.loli.net/2023/10/29/w4nKWplUYH5mCor.jpg)
