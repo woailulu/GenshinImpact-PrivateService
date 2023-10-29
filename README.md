@@ -68,8 +68,14 @@ chmod +x gradlew
 
 你可以在项目的根目录找到输出的jar。
 
+#视频
+![视频](https://pan.quark.cn/s/98fd83a1d181)
+
+
 #捐赠
 ![微信](https://s2.loli.net/2023/10/29/JEP3fWQmKSpzkFe.jpg)![支付宝](https://s2.loli.net/2023/10/29/w4nKWplUYH5mCor.jpg)
+
+
 
 #客服
 ![qq](https://s2.loli.net/2023/10/29/TRU8SKb9E7oh1ie.jpg)![微信](https://s2.loli.net/2023/10/29/SN6Q7P5HkXVeIUJ.jpg)
