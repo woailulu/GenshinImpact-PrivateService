@@ -1,6 +1,6 @@
 ![Grasscutter]([https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/OIP-C.jpg](https://socialify.git.ci/woailulu/GenshinImpact-PrivateService/image?description=1&descriptionEditable=%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D&font=Rokkitt&language=1&logo=OIP-C.jpg&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark))
 
-[EN](../README.md) | 
+
 [简中](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README.md) | 
 [繁中](https://github.com/woailulu/GenshinImpact-PrivateService/edit/%E9%87%8D%E7%82%B9/README-CN.md) | 
 [FR](README_fr-FR.md) | 
