@@ -33,15 +33,15 @@
  
 ## 快速安装指南
 
-**注意:** 如需帮助，请加入我们的[Discord](https://discord.gg/T5vZU6UyeG)。
+**注意:** 如需帮助，请加v或q
 
 ### 快速开始（全自动）
 
-- 获取Java 17：https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-- 获取[MongoDB社区版](https://www.mongodb.com/try/download/community)
+- 获取Java 17：
+- 获取MongoDB社区版
 - 获取游戏4.0正式版 (如果你没有4.0的客户端，可以在这里找到）：https://github.com/MAnggiarMustofa/GI-Download-Library/blob/main/GenshinImpact/Client/4.0.0.md)
 
-- 下载[最新的Cultivation版本](https://github.com/Grasscutters/Cultivation/releases/latest)（使用以“.msi”为后缀的安装包）。
+- 下载[最新的Cultivation版本]（使用以“.msi”为后缀的安装包）。
 - 以管理员身份打开Culivation，按右上角的下载按钮。
 - 点击“下载 Grasscutter 一体化”
 - 点击右上角的齿轮
@@ -59,8 +59,8 @@ Grasscutter使用Gradle来处理依赖和构建。
 
 **前置：**
 
-- [Java SE Development Kits - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)或更高版本
-- [Git](https://git-scm.com/downloads)
+- [Java SE Development Kits - 17]
+- [Git]
 
 ##### Windows
 
