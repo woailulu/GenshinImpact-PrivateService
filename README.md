@@ -69,7 +69,7 @@ chmod +x gradlew
 你可以在项目的根目录找到输出的jar。
 
 #视频
-![视频](https://pan.quark.cn/s/98fd83a1d181)
+视频(https://pan.quark.cn/s/98fd83a1d181)
 
 
 #捐赠
