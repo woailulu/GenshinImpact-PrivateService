@@ -1,6 +1,21 @@
-![Grasscutter]([https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/OIP-C.jpg](https://socialify.git.ci/woailulu/GenshinImpact-PrivateService/image?description=1&descriptionEditable=%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D&font=Rokkitt&language=1&logo=OIP-C.jpg&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark))
+![Grasscutter](https://socialify.git.ci/woailulu/GenshinImpact-PrivateService/image?description=1&descriptionEditable=Liver%20is%20replaced%20by%20deer%0A%2F%2F%5C%5CGenshin%20Impact%20Private%20Service&font=Rokkitt&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2023%2F10%2F29%2F2S7PfkaxUmvqeRo.jpg&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
-[EN](../README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) | [FR](README_fr-FR.md) | [ES](README_es-ES.md) | [HE](README_HE.md) | [RU](README_ru-RU.md) | [PL](README_pl-PL.md) | [ID](README_id-ID.md) | [KR](README_ko-KR.md) | [FIL/PH](README_fil-PH.md) | [NL](README_NL.md) | [JP](README_ja-JP.md) | [IT](README_it-IT.md) | [VI](README_vi-VN.md) | [हिंदी](README_hn-IN.md)
+
+[简中](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README.md) | 
+[繁中](https://github.com/woailulu/GenshinImpact-PrivateService/edit/%E9%87%8D%E7%82%B9/README-CN.md) | 
+[FR](README_fr-FR.md) | 
+[ES](README_es-ES.md) | 
+[HE](README_HE.md) | 
+[RU](README_ru-RU.md) | 
+[PL](README_pl-PL.md) | 
+[ID](README_id-ID.md) | 
+[KR](README_ko-KR.md) | 
+[FIL/PH](README_fil-PH.md) | 
+[NL](README_NL.md) | 
+[JP](README_ja-JP.md) | 
+[IT](README_it-IT.md) | 
+[VI](README_vi-VN.md) | 
+[हिंदी](README_hn-IN.md)
 
 **請注意:** 歡迎成為本專案的貢獻者。在提交 PR 之前, 請仔細閱讀[程式碼規範](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md)。
 

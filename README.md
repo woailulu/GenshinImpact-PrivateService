@@ -1,12 +1,9 @@
 
-![Grasscutter](https://socialify.git.ci/Grasscutters/Grasscutter/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2022%2F04%2F25%2FxOiJn7lCdcT5Mw1.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
-<div align="center"><img alt="Documentation" src="https://img.shields.io/badge/Wiki-Grasscutter-blue?style=for-the-badge&link=https://github.com/Grasscutters/Grasscutter/wiki&link=https://github.com/Grasscutters/Grasscutter/wiki"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Grasscutters/Grasscutter?logo=java&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Grasscutters/Grasscutter/build.yml?branch=development&logo=github&style=for-the-badge"></div>
+![Grasscutter](https://socialify.git.ci/woailulu/GenshinImpact-PrivateService/image?description=1&descriptionEditable=Liver%20is%20replaced%20by%20deer%0A%2F%2F%5C%5CGenshin%20Impact%20Private%20Service&font=Rokkitt&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2023%2F10%2F29%2F2S7PfkaxUmvqeRo.jpg&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
-<div align="center"><a href="https://discord.gg/T5vZU6UyeG"><img alt="Discord - Grasscutter" src="https://img.shields.io/discord/965284035985305680?label=Discord&logo=discord&style=for-the-badge"></a></div>
 
-[EN](../README.md) | 
-[简中](README_zh-CN.md) |
-[繁中]([README_zh-TW.md](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README-CN.md)) | 
+[简中](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README.md) |
+[繁中](https://github.com/woailulu/GenshinImpact-PrivateService/blob/%E9%87%8D%E7%82%B9/README-CN.md) | 
 [FR](README_fr-FR.md) | 
 [ES](README_es-ES.md) | 
 [HE](README_HE.md) |
@@ -36,15 +33,15 @@
  
 ## 快速安装指南
 
-**注意:** 如需帮助，请加入我们的[Discord](https://discord.gg/T5vZU6UyeG)。
+**注意:** 如需帮助，请加v或q
 
 ### 快速开始（全自动）
 
-- 获取Java 17：https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-- 获取[MongoDB社区版](https://www.mongodb.com/try/download/community)
+- 获取Java 17：
+- 获取MongoDB社区版
 - 获取游戏4.0正式版 (如果你没有4.0的客户端，可以在这里找到）：https://github.com/MAnggiarMustofa/GI-Download-Library/blob/main/GenshinImpact/Client/4.0.0.md)
 
-- 下载[最新的Cultivation版本](https://github.com/Grasscutters/Cultivation/releases/latest)（使用以“.msi”为后缀的安装包）。
+- 下载[最新的Cultivation版本]（使用以“.msi”为后缀的安装包）。
 - 以管理员身份打开Culivation，按右上角的下载按钮。
 - 点击“下载 Grasscutter 一体化”
 - 点击右上角的齿轮
@@ -62,8 +59,8 @@ Grasscutter使用Gradle来处理依赖和构建。
 
 **前置：**
 
-- [Java SE Development Kits - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)或更高版本
-- [Git](https://git-scm.com/downloads)
+- [Java SE Development Kits - 17]
+- [Git]
 
 ##### Windows
 
