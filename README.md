@@ -1,4 +1,4 @@
-中EN | 简中 | 繁中 | FR | ES | HE | RU | PL | ID | KR | FIL/PH | NL | JP | IT | VI
+EN | 简中 | 繁中 | FR | ES | HE | RU | PL | ID | KR | FIL/PH | NL | JP | IT | VI
 
 注意力：我们始终欢迎项目的贡献者。在添加您的贡献之前，请仔细阅读我们的行为准则。
 # 你好
